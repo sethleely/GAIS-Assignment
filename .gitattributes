@@ -1,1 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
 GAIS[[:space:]]Assignment[[:space:]]Seth.ipynb filter=lfs diff=lfs merge=lfs -text
